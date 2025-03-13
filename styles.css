@@ -70,3 +70,7 @@ footer {
         margin: 10px;
     }
 }
+.error-message {
+    color: red;
+    font-size: 14px;
+}
